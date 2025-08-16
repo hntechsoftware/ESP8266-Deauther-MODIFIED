@@ -7,3 +7,4 @@ Issues fixed:
 - buttons not working
 
 Tested with Wemos D1 Mini and NodeMCU ESP8266, using only 0.96" I2C OLED.
+*(NOTE: I changed the starting screen's PROGMEM text values to suit my custom project.)*
