@@ -1,5 +1,5 @@
 ## ESP8266 Deauther Modified for the Wemos D1 Mini Board (post-troubleshooting)
-The original one is here: (Link)[https://github.com/SpacehuhnTech/esp8266_deauther]
+The original one is here: [Link](https://github.com/SpacehuhnTech/esp8266_deauther)
 
 The SpaceHuhn one has some issues with screen setup and button setup, so I've modified the code and it somehow works now.
 Issues fixed:
