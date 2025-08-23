@@ -112,7 +112,7 @@ void setup() {
     });
 
     // start display
-    if (settings::getDisplaySettings().enabled) {
+    if (1 == 1) {
         displayUI.setup();
         displayUI.mode = DISPLAY_MODE::INTRO;
     }
