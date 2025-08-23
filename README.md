@@ -5,6 +5,7 @@ The SpaceHuhn one has some issues with screen setup and button setup, so I've mo
 Issues fixed:
 - screen not working
 - buttons not working
+- screen goes off, display=true setting not retained
 
 Tested with Wemos D1 Mini and NodeMCU ESP8266, using only 0.96" I2C OLED.
 *(NOTE: I changed the starting screen's PROGMEM text values to suit my custom project.)*
